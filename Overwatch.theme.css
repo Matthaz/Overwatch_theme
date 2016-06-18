@@ -54,12 +54,12 @@ textarea {
 
 /* Server list area */
 .guilds-wrapper { 
-	background:rgba(0,0,0,0.65) !important 
+	background:rgba(0,0,0,0.65) !important;
 }
 
 /* Channels list area */
 .channels-wrap { 
-	background:rgba(0,0,0,0.55) 
+	background:rgba(0,0,0,0.55) ;
 }
 
 /* Chat area */
@@ -69,7 +69,7 @@ textarea {
 
 /* User list area */
 .channel-members {
-	background:rgba(0,0,0,0.55) !important 
+	background:rgba(0,0,0,0.55) !important;
 }
 
 /* Title Bar Area */
@@ -441,6 +441,105 @@ textarea {
     color:#FFF;
     font-size:18px;
 }
+
+.user-settings-modal-connections .user-settings-modal-connections-list .connection .connection-integrations {
+	border-color: transparent !important;
+}
+
+.form .control-group textarea {
+    background:#232323 !important;
+    box-sizing:border-box;
+    border:0px solid #232323 !important;
+    color:#e5e5e5;
+    border-radius:0px;
+    font-size:18px;
+    padding:5px 10px 5px 10px;   
+}
+
+.form .control-group input[type=email],
+.form .control-group input[type=password],
+.form .control-group input[type=text] {   
+	padding:5px 10px 5px 10px;
+	border-radius:8px;
+	box-sizing: border-box;
+	border:0px solid #232323 !important;
+    background:#FAA02E !important;
+    color:#FFF;
+    font-size:18px;
+}
+
+
+
+
+
+
+.avatar-uploader .avatar-uploader-inner {
+    border-radius:8px;
+    border:5px solid #FAA02E;
+    background:#232323;
+}
+
+.user-settings-modal-connections .user-settings-modal-accounts-list .connect-container .name {
+	color:#e5e5e5;
+}
+
+.form .radio-group .radio,
+.form .checkbox-group .checkbox,
+.checkbox .checkbox-inner+span {
+	color:#cccccc !important;
+}
+
+.checkbox .checkbox-inner input[type=checkbox]:checked+span{
+	background:#FAA02E;
+    border-color: #FAA02E;
+}
+
+.user-settings-modal-games .games-table .games-row .item-game .last-played {
+	color:#cccccc;
+}
+
+.user-settings-modal-games .games-table {
+    background-color: #2F2526;
+}
+
+.form .btn-primary {
+	background-color:#232323;
+}
+
+.form .btn-primary:hover {
+	background-color:#FAA02E;
+}
+
+.tab-bar.TOP .tab-bar-item {
+    color:#b2b2b2;
+}    
+.tab-bar.TOP .tab-bar-item:hover {
+    color:#cccccc;
+    border-color:#FCBD49;
+}
+
+.tab-bar.TOP .tab-bar-item.selected {
+	border-color:#FAA02E;
+	color:#e5e5e5;
+}
+
+.settings-panel {
+    background: transparent !important;
+}
+
+.radio .radio-inner span:after {
+    background-color: #FAA02E;
+}
+
+.slider .slider-bar .slider-bar-fill {
+    background-color: #FAA02E;
+}
+
+.slider .slider-handle {
+    border-color: #FFF;
+}
+
+
 
 .CodeMirror {
 	background: rgba(255,255,255,0.15) !important;
