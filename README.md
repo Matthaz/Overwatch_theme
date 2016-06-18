@@ -5,7 +5,7 @@ Main Screen
 
 User and Server Settings
 
-<img src="https://a.pomf.cat/qhbygk.png"/>
+<img src="https://a.pomf.cat/khiavh.png"/>
 <img src="https://a.pomf.cat/nzjxxz.png"/>
 
 ```
