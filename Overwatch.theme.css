@@ -125,7 +125,7 @@ textarea {
 }
 
 #voice-connection {
-	z-index: 9;
+	z-index: 9; 
 	border-top: 6px solid !important;
 	padding: 5px 10px 5px 10px !important;
     color: #FAA02E;
