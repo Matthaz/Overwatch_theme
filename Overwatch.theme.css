@@ -468,11 +468,6 @@ textarea {
     font-size:18px;
 }
 
-
-
-
-
-
 .avatar-uploader .avatar-uploader-inner {
     border-radius:8px;
     border:5px solid #FAA02E;
@@ -539,7 +534,147 @@ textarea {
     border-color: #FFF;
 }
 
+.need-help-modal a {
+    color:#FAA02E;
+}
 
+.need-help-modal a:hover {
+    color:#FFB557;
+}
+
+input#help-query {
+    background:#060606 !important;
+}
+
+.markdown-modal, .form
+.form-inner, .form .formheader, .form .form-actions,
+.need-help-modal .footer, .markdown-modal .markdown-modal-footer {
+    background:#060606 !important;
+}
+
+.need-help-modal .header {
+    background: #FAA02E;   
+}
+
+.need-help-modal .header input[type=text]-placeholder {
+    color:#e5e5e5;
+}
+
+.need-help-modal .header input[type=text] {
+    color:#fff;
+    background:rgba(25,25,25,1);
+    box-shadow:0px 0px 0px 0px;
+    box-radius:0px;
+    box-sizing:border-box;
+}
+
+.form .form-header {
+    background:#060606;
+    border-bottom:1px solid;
+    border-color:#FFF !important;
+}
+
+.form header {
+    color: #FAA02E;
+} 
+
+.create-guild-container .action.join .btn-primary {
+    background-color: #232323;
+}
+
+#friends {
+	background:transparent !important;
+}
+
+.friends-header {
+	background:rgba(0,0,0,0.65) !important;
+}
+
+.friends-table {
+    background:rgba(0,0,0,0.65) !important;
+	margin-top:0 !important;
+}
+
+.friends-header,
+.friends-table .friends-table-header {
+	border-bottom: 0px solid hsla(0,0%,100%,.1) !important;
+}
+
+.friends-header .tab-bar .tab-bar-separator,
+.friends-table .friends-table-header .friends-column-separator {
+	background-color:hsla(0,0%,100%,.1) !important;
+}
+
+.friends-table .friends-row:hover {
+	background:rgba(23,23,23,0.65) !important;
+}
+
+#friends 
+.friends-table 
+.friends-row 
+.friends-column-actions .friends-action.friends-action-red {
+    background:#232323;
+    color:#cccccc
+}
+
+.badge {
+	background-color: #FAA02E;
+}
+
+.add-friend-popout {
+    border-radius:10px
+}
+
+.add-friend-popout .btn {
+	background-color:#FAA02E !important; 
+	color:#e5e5e5;
+}
+
+.add-friend-popout .btn:disabled {
+	background-color:#232323 !important;
+	opacity:1;
+    color:#e5e5e5;
+}
+
+.add-friend-popout header
+input:focus {
+    background:#191919;
+    color:#fff;
+    border:solid 0px #191919;
+}
+
+.add-friend-popout header input:not(focused) {
+    border:hidden;
+    background:#191919;
+}
+
+.add-friend-popout header {
+    background-color: #FAA02E;
+}
+
+.add-friend-popout section {
+    background-color: #FAA02E;
+}
+
+.private-channels .channel:hover:not(.selected) .icon-friends {
+	background-color:transparent !important;
+}
+
+.private-channels .channel.btn-friends {
+	margin-right:10px;
+}
+
+.private-channels .channel .close {
+	margin-right:5px;
+}
+
+.tab-bar .tab-bar-item.selected {
+    background-color: #FAA02E !important;
+}
+
+.private-channels .search-bar {
+	background: transparent !important;
+}
 
 .CodeMirror {
 	background: rgba(255,255,255,0.15) !important;
