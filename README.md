@@ -1,12 +1,12 @@
 # Overwatch Theme
 Main Screen
 
-<img src="https://a.pomf.cat/faamrb.jpg"/>
+<img src="https://a.pomf.cat/wrhooy.jpg"/>
 
 User and Server Settings
 
-<img src="https://a.pomf.cat/khiavh.png"/>
-<img src="https://a.pomf.cat/nzjxxz.png"/>
+<img src="https://a.pomf.cat/cxfatd.png"/>
+<img src="https://a.pomf.cat/tlette.png"/>
 
 ```
 Step 1: Right Click the Raw Button
