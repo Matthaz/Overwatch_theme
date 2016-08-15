@@ -11,6 +11,9 @@
 */
 
 /* Main Background and Settings Background*/
+.dummyclass {
+    color: #fff;
+}
 .app {
     background-image: url(https://imgur.com/QF8xNms.png) !important;
 	background-size: cover !important;
